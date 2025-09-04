@@ -2,9 +2,6 @@
 
 Senior Frontend Developer with **5+ years of experience** building scalable, high-performance applications across **healthcare, Web3, and enterprise platforms**. I specialize in **React, Next.js, React Native, and TypeScript**, creating **reusable, accessible, and pixel-perfect UI components**.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 - 🔭 I’m currently working on **frontend architectures, blockchain integrations, and high-performance React projects**  
 - 🌱 I’m currently learning **advanced Three.js techniques and full-stack optimizations**  
